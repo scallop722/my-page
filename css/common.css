@@ -1,0 +1,9 @@
+body {
+  background-color: #000000;
+  color: #ffffff;
+  text-align: center;
+}
+
+th, td {
+  border: outset 3px #ffffff;
+}
